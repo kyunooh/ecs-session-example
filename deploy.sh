@@ -1,7 +1,7 @@
-0. Edit Options
-1. Build docker images and push to ECR
-2. Create Task Definitions (ecs-task-definition.conf)
-3. Update Service 
+# 0. Edit Options
+# 1. Build docker images and push to ECR
+# 2. Create Task Definitions (ecs-task-definition.conf)
+# 3. Update Service 
 
 # Edit Below Options
 DATE=$(date '+%Y-%m-%d-%H-%M-%S')
